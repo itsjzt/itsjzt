@@ -33,3 +33,9 @@ I have worked extensively with third-party APIs including Shopify, Facebook, and
   - I was initially learning Ruby on Rail but [this post](https://www.freecodecamp.org/news/a-cautionary-tale-of-learning-to-code-my-own-eddb24d9d5a7/) pushed me to focus on javascript instead.
   - My username is inspired by the internet name of [Jamie Zawinski](https://en.m.wikipedia.org/wiki/Jamie_Zawinski), creator of RegEx.
   - I'm a community and tag moderator on [dev.to](https://dev.to)
+
+## Stats 
+![saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjzt)
+
+![saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=saurabh-codeword)
+
