@@ -35,7 +35,6 @@ I have worked extensively with third-party APIs including Shopify, Facebook, and
   - I'm a community and tag moderator on [dev.to](https://dev.to)
 
 ## Stats 
-## Stats 
 ![saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=itsjzt)
 
 See my [work profile](https://github.com/saurabh-codeword) if you want to see a better GitHub contribution tile.
