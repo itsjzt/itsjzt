@@ -2,7 +2,7 @@
 
 I'm Saurabh, I'm a full-stack web developer from Delhi, 🇮🇳. 
 
-I'm experienced in Node.js, React, Typescript, and GraphQL. Apart from this I also have some experience in native mobile apps and rust.
+I'm experienced in **Node.js, React, Typescript, and GraphQL**. Apart from this I also have some experience in native mobile apps and rust.
 
 I have worked extensively with third-party APIs including Shopify, Facebook, and Google.
 
